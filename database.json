@@ -1,0 +1,549 @@
+[
+    {
+        "play_date": "2023-02-24 22:59:32.503150",
+        "end_date": "2023-02-24 23:00:37.704278",
+        "won_games": 15,
+        "details": [
+            {
+                "main_color": "#ed5b27",
+                "variant_color": "#f4541a",
+                "h_blocks": 2,
+                "v_blocks": 2,
+                "fake_h": 1,
+                "fake_v": 0
+            },
+            {
+                "main_color": "#ea0eda",
+                "variant_color": "#e307d3",
+                "h_blocks": 3,
+                "v_blocks": 3,
+                "fake_h": 2,
+                "fake_v": 2
+            },
+            {
+                "main_color": "#a53fc6",
+                "variant_color": "#9d38bf",
+                "h_blocks": 6,
+                "v_blocks": 6,
+                "fake_h": 3,
+                "fake_v": 1
+            },
+            {
+                "main_color": "#ee4071",
+                "variant_color": "#e24e78",
+                "h_blocks": 7,
+                "v_blocks": 7,
+                "fake_h": 2,
+                "fake_v": 1
+            },
+            {
+                "main_color": "#0ea3ec",
+                "variant_color": "#159df2",
+                "h_blocks": 8,
+                "v_blocks": 8,
+                "fake_h": 6,
+                "fake_v": 7
+            },
+            {
+                "main_color": "#a457e9",
+                "variant_color": "#9c4de1",
+                "h_blocks": 16,
+                "v_blocks": 16,
+                "fake_h": 7,
+                "fake_v": 12
+            },
+            {
+                "main_color": "#9fbf5f",
+                "variant_color": "#a8c464",
+                "h_blocks": 17,
+                "v_blocks": 17,
+                "fake_h": 3,
+                "fake_v": 13
+            },
+            {
+                "main_color": "#bd95d3",
+                "variant_color": "#c78ed8",
+                "h_blocks": 18,
+                "v_blocks": 18,
+                "fake_h": 4,
+                "fake_v": 13
+            },
+            {
+                "main_color": "#8ab2d1",
+                "variant_color": "#8fa8cc",
+                "h_blocks": 19,
+                "v_blocks": 19,
+                "fake_h": 9,
+                "fake_v": 1
+            },
+            {
+                "main_color": "#6df0d0",
+                "variant_color": "#66e6d5",
+                "h_blocks": 20,
+                "v_blocks": 20,
+                "fake_h": 16,
+                "fake_v": 4
+            },
+            {
+                "main_color": "#ea8b29",
+                "variant_color": "#e58220",
+                "h_blocks": 21,
+                "v_blocks": 21,
+                "fake_h": 19,
+                "fake_v": 4
+            },
+            {
+                "main_color": "#6c2869",
+                "variant_color": "#622f60",
+                "h_blocks": 22,
+                "v_blocks": 22,
+                "fake_h": 14,
+                "fake_v": 7
+            },
+            {
+                "main_color": "#ff57f7",
+                "variant_color": "#f552fd",
+                "h_blocks": 23,
+                "v_blocks": 23,
+                "fake_h": 0,
+                "fake_v": 8
+            },
+            {
+                "main_color": "#1e495c",
+                "variant_color": "#194461",
+                "h_blocks": 24,
+                "v_blocks": 24,
+                "fake_h": 8,
+                "fake_v": 8
+            },
+            {
+                "main_color": "#9e8f1a",
+                "variant_color": "#a58a15",
+                "h_blocks": 24,
+                "v_blocks": 24,
+                "fake_h": 11,
+                "fake_v": 17
+            },
+            {
+                "main_color": "#79028c",
+                "variant_color": "#7f0091",
+                "h_blocks": 24,
+                "v_blocks": 24,
+                "fake_h": 19,
+                "fake_v": 0
+            }
+        ]
+    },
+    {
+        "play_date": "2023-02-24 23:00:47.529795",
+        "end_date": "2023-02-24 23:01:22.593701",
+        "won_games": 6,
+        "details": [
+            {
+                "main_color": "#53d28a",
+                "variant_color": "#4cc683",
+                "h_blocks": 2,
+                "v_blocks": 2,
+                "fake_h": 0,
+                "fake_v": 0
+            },
+            {
+                "main_color": "#60a15b",
+                "variant_color": "#67a868",
+                "h_blocks": 3,
+                "v_blocks": 3,
+                "fake_h": 0,
+                "fake_v": 2
+            },
+            {
+                "main_color": "#af6fc9",
+                "variant_color": "#a868c2",
+                "h_blocks": 6,
+                "v_blocks": 6,
+                "fake_h": 5,
+                "fake_v": 5
+            },
+            {
+                "main_color": "#712221",
+                "variant_color": "#6a1b13",
+                "h_blocks": 7,
+                "v_blocks": 7,
+                "fake_h": 3,
+                "fake_v": 3
+            },
+            {
+                "main_color": "#d20800",
+                "variant_color": "#cc0e06",
+                "h_blocks": 8,
+                "v_blocks": 8,
+                "fake_h": 1,
+                "fake_v": 5
+            },
+            {
+                "main_color": "#77f2be",
+                "variant_color": "#7efdc5",
+                "h_blocks": 16,
+                "v_blocks": 16,
+                "fake_h": 8,
+                "fake_v": 8
+            },
+            {
+                "main_color": "#1b13a9",
+                "variant_color": "#201bb3",
+                "h_blocks": 17,
+                "v_blocks": 17,
+                "fake_h": 9,
+                "fake_v": 1
+            }
+        ]
+    },
+    {
+        "play_date": "2023-02-24 23:01:43.907520",
+        "end_date": "2023-02-24 23:02:42.883942",
+        "won_games": 9,
+        "details": [
+            {
+                "main_color": "#744553",
+                "variant_color": "#6b3e4c",
+                "h_blocks": 2,
+                "v_blocks": 2,
+                "fake_h": 1,
+                "fake_v": 0
+            },
+            {
+                "main_color": "#fc5fe9",
+                "variant_color": "#ff69f0",
+                "h_blocks": 3,
+                "v_blocks": 3,
+                "fake_h": 0,
+                "fake_v": 0
+            },
+            {
+                "main_color": "#d3ff2b",
+                "variant_color": "#dff824",
+                "h_blocks": 6,
+                "v_blocks": 6,
+                "fake_h": 1,
+                "fake_v": 4
+            },
+            {
+                "main_color": "#787a38",
+                "variant_color": "#6d8131",
+                "h_blocks": 7,
+                "v_blocks": 7,
+                "fake_h": 4,
+                "fake_v": 4
+            },
+            {
+                "main_color": "#47f72e",
+                "variant_color": "#4dfd28",
+                "h_blocks": 8,
+                "v_blocks": 8,
+                "fake_h": 5,
+                "fake_v": 0
+            },
+            {
+                "main_color": "#a86be4",
+                "variant_color": "#b064d9",
+                "h_blocks": 16,
+                "v_blocks": 16,
+                "fake_h": 15,
+                "fake_v": 7
+            },
+            {
+                "main_color": "#84bc59",
+                "variant_color": "#89c45f",
+                "h_blocks": 17,
+                "v_blocks": 17,
+                "fake_h": 6,
+                "fake_v": 7
+            },
+            {
+                "main_color": "#261c75",
+                "variant_color": "#2b2770",
+                "h_blocks": 18,
+                "v_blocks": 18,
+                "fake_h": 11,
+                "fake_v": 10
+            },
+            {
+                "main_color": "#3511a4",
+                "variant_color": "#3b0c9f",
+                "h_blocks": 19,
+                "v_blocks": 19,
+                "fake_h": 16,
+                "fake_v": 6
+            },
+            {
+                "main_color": "#fb320c",
+                "variant_color": "#ff3711",
+                "h_blocks": 20,
+                "v_blocks": 20,
+                "fake_h": 5,
+                "fake_v": 10
+            }
+        ]
+    },
+    {
+        "play_date": "2023-02-25 14:00:36.233063",
+        "end_date": "2023-02-25 14:03:56.710365",
+        "won_games": 15,
+        "details": [
+            {
+                "main_color": "#fa54ff",
+                "variant_color": "#ff5cf1",
+                "h_blocks": 2,
+                "v_blocks": 2,
+                "fake_h": 1,
+                "fake_v": 0
+            },
+            {
+                "main_color": "#69800a",
+                "variant_color": "#707911",
+                "h_blocks": 3,
+                "v_blocks": 3,
+                "fake_h": 2,
+                "fake_v": 2
+            },
+            {
+                "main_color": "#237109",
+                "variant_color": "#2c7914",
+                "h_blocks": 6,
+                "v_blocks": 6,
+                "fake_h": 2,
+                "fake_v": 1
+            },
+            {
+                "main_color": "#f5fa98",
+                "variant_color": "#fcffa3",
+                "h_blocks": 7,
+                "v_blocks": 7,
+                "fake_h": 4,
+                "fake_v": 0
+            },
+            {
+                "main_color": "#430194",
+                "variant_color": "#4e079a",
+                "h_blocks": 8,
+                "v_blocks": 8,
+                "fake_h": 4,
+                "fake_v": 3
+            },
+            {
+                "main_color": "#8dce6b",
+                "variant_color": "#85c560",
+                "h_blocks": 16,
+                "v_blocks": 16,
+                "fake_h": 5,
+                "fake_v": 11
+            },
+            {
+                "main_color": "#9c97e9",
+                "variant_color": "#978fde",
+                "h_blocks": 17,
+                "v_blocks": 17,
+                "fake_h": 2,
+                "fake_v": 8
+            },
+            {
+                "main_color": "#83e811",
+                "variant_color": "#8df00c",
+                "h_blocks": 18,
+                "v_blocks": 18,
+                "fake_h": 2,
+                "fake_v": 4
+            },
+            {
+                "main_color": "#0da51f",
+                "variant_color": "#08ae16",
+                "h_blocks": 19,
+                "v_blocks": 19,
+                "fake_h": 13,
+                "fake_v": 17
+            },
+            {
+                "main_color": "#0320d5",
+                "variant_color": "#0028da",
+                "h_blocks": 20,
+                "v_blocks": 20,
+                "fake_h": 7,
+                "fake_v": 16
+            },
+            {
+                "main_color": "#b9e420",
+                "variant_color": "#c2e925",
+                "h_blocks": 21,
+                "v_blocks": 21,
+                "fake_h": 1,
+                "fake_v": 16
+            },
+            {
+                "main_color": "#612d50",
+                "variant_color": "#662855",
+                "h_blocks": 22,
+                "v_blocks": 22,
+                "fake_h": 16,
+                "fake_v": 11
+            },
+            {
+                "main_color": "#7eb28e",
+                "variant_color": "#79ad93",
+                "h_blocks": 23,
+                "v_blocks": 23,
+                "fake_h": 19,
+                "fake_v": 18
+            },
+            {
+                "main_color": "#fb0ec6",
+                "variant_color": "#f614bd",
+                "h_blocks": 24,
+                "v_blocks": 24,
+                "fake_h": 17,
+                "fake_v": 8
+            },
+            {
+                "main_color": "#9659d9",
+                "variant_color": "#9154d4",
+                "h_blocks": 24,
+                "v_blocks": 24,
+                "fake_h": 11,
+                "fake_v": 23
+            },
+            {
+                "main_color": "#c5d913",
+                "variant_color": "#cfdf0d",
+                "h_blocks": 24,
+                "v_blocks": 24,
+                "fake_h": 2,
+                "fake_v": 12
+            }
+        ]
+    },
+    {
+        "play_date": "2023-02-26 13:15:43.182094",
+        "end_date": "2023-02-26 13:18:29.185980",
+        "won_games": 14,
+        "details": [
+            {
+                "main_color": "#7bf68e",
+                "variant_color": "#71ff86",
+                "h_blocks": 2,
+                "v_blocks": 2,
+                "fake_h": 0,
+                "fake_v": 1
+            },
+            {
+                "main_color": "#51b718",
+                "variant_color": "#58be11",
+                "h_blocks": 3,
+                "v_blocks": 3,
+                "fake_h": 2,
+                "fake_v": 0
+            },
+            {
+                "main_color": "#689fdb",
+                "variant_color": "#72a7d4",
+                "h_blocks": 6,
+                "v_blocks": 6,
+                "fake_h": 2,
+                "fake_v": 0
+            },
+            {
+                "main_color": "#5fc5dd",
+                "variant_color": "#66cee4",
+                "h_blocks": 7,
+                "v_blocks": 7,
+                "fake_h": 6,
+                "fake_v": 4
+            },
+            {
+                "main_color": "#698800",
+                "variant_color": "#6f910d",
+                "h_blocks": 8,
+                "v_blocks": 8,
+                "fake_h": 3,
+                "fake_v": 6
+            },
+            {
+                "main_color": "#b4b0ad",
+                "variant_color": "#aaabb8",
+                "h_blocks": 16,
+                "v_blocks": 16,
+                "fake_h": 14,
+                "fake_v": 3
+            },
+            {
+                "main_color": "#e2fcbe",
+                "variant_color": "#ddf7c7",
+                "h_blocks": 17,
+                "v_blocks": 17,
+                "fake_h": 1,
+                "fake_v": 8
+            },
+            {
+                "main_color": "#ae790a",
+                "variant_color": "#a98005",
+                "h_blocks": 18,
+                "v_blocks": 18,
+                "fake_h": 3,
+                "fake_v": 14
+            },
+            {
+                "main_color": "#616be7",
+                "variant_color": "#6663ed",
+                "h_blocks": 19,
+                "v_blocks": 19,
+                "fake_h": 13,
+                "fake_v": 18
+            },
+            {
+                "main_color": "#2e2656",
+                "variant_color": "#283051",
+                "h_blocks": 20,
+                "v_blocks": 20,
+                "fake_h": 7,
+                "fake_v": 14
+            },
+            {
+                "main_color": "#651753",
+                "variant_color": "#601c4e",
+                "h_blocks": 21,
+                "v_blocks": 21,
+                "fake_h": 6,
+                "fake_v": 8
+            },
+            {
+                "main_color": "#39f865",
+                "variant_color": "#3efd60",
+                "h_blocks": 22,
+                "v_blocks": 22,
+                "fake_h": 7,
+                "fake_v": 2
+            },
+            {
+                "main_color": "#428ec1",
+                "variant_color": "#4a93bb",
+                "h_blocks": 23,
+                "v_blocks": 23,
+                "fake_h": 22,
+                "fake_v": 8
+            },
+            {
+                "main_color": "#adb3f1",
+                "variant_color": "#a8b8fa",
+                "h_blocks": 24,
+                "v_blocks": 24,
+                "fake_h": 8,
+                "fake_v": 23
+            },
+            {
+                "main_color": "#e4093b",
+                "variant_color": "#df0e32",
+                "h_blocks": 24,
+                "v_blocks": 24,
+                "fake_h": 19,
+                "fake_v": 23
+            }
+        ]
+    }
+]
