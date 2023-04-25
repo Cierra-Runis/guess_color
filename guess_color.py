@@ -134,7 +134,7 @@ def show_menu() -> None:
     print(''.center(50, '-'))
 
 
-def show_notice(notice: str, end_str: str, times: int = 3) -> None:
+def show_notice(notice: str, end_str: str = '\n', times: int = 3) -> None:
     '''
     show notice
     '''
@@ -151,6 +151,17 @@ def how_to_play() -> None:
     '''
     game introduction
     '''
+
+    os.system('cls')
+    show_notice('0. Open a window of `color_pic.png`.')
+    show_notice('1. Start a new game at console menu.')
+    show_notice(
+        '2. Figure out which block is different, if you find it, just enter `y`, else enter other character.'
+    )
+    show_notice(
+        '3. Once you enter other character, the game is over, it will back to menu in 3 seconds.'
+    )
+    show_menu()
 
 
 def new_game() -> None:
